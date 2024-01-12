@@ -397,4 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-Data.sql
+Data-NIV.sql
