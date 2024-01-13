@@ -5,8 +5,6 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyReading.Web", "DailyReading.Web\DailyReading.Web.csproj", "{A8CB694C-038C-4943-A120-688F66A9BF3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyReading.Data", "DailyReading.Data\DailyReading.Data.csproj", "{C82B2D68-2E46-4E28-8074-55953D58FA9D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{C839490F-31C4-417A-BA8D-FECC20A0BC16}"
 	ProjectSection(SolutionItems) = preProject
 		SQL\Data-ASV.sql = SQL\Data-ASV.sql
@@ -26,10 +24,6 @@ Global
 		{A8CB694C-038C-4943-A120-688F66A9BF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8CB694C-038C-4943-A120-688F66A9BF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8CB694C-038C-4943-A120-688F66A9BF3D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C82B2D68-2E46-4E28-8074-55953D58FA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C82B2D68-2E46-4E28-8074-55953D58FA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C82B2D68-2E46-4E28-8074-55953D58FA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C82B2D68-2E46-4E28-8074-55953D58FA9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
